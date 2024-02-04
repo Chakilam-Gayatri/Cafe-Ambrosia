@@ -1,6 +1,6 @@
 # Cafe-Ambrosia
 Overview
-Welcome to the repository for our café's website, a fully functional web application built using Django for the backend and Bootstrap with Jinja for the frontend. This project aims to provide an interactive online presence for our café, enabling users to explore the menu in real-time and stay up-to-date with daily offerings.
+Welcome to the repository for my café's website, a fully functional web application built using Django for the backend and Bootstrap with Jinja for the frontend. This project aims to provide an interactive online presence for our café, enabling users to explore the menu in real-time and stay up-to-date with daily offerings.
 
 Features
 
