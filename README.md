@@ -25,10 +25,10 @@ Item Table: The database table named "Item" stores detailed information such as 
 - SQLite
 
 ## Instructions
-Clone this repository to your local machine using git clone <repository-url>.
-Navigate to the project directory.
-Install the required dependencies by running pip install -r requirements.txt.
-Run the Django development server using python manage.py runserver.
-Access the website in your browser at http://localhost:8000.
+- Clone this repository to your local machine using git clone <repository-url>.
+- Navigate to the project directory.
+- Install the required dependencies by running pip install -r requirements.txt.
+- Run the Django development server using python manage.py runserver.
+- Access the website in your browser at http://localhost:8000.
 
 
