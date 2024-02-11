@@ -18,11 +18,11 @@ SQLite Database: The backend utilizes an SQLite database to store essential info
 Item Table: The database table named "Item" stores detailed information such as category, item name, description, prices, entry date, last update date, status, and admin user credentials.
 
 ## Prerequisites
-- ** Python 3.x
-- ** Django
-- ** Bootstrap
-- **Jinja
-- **SQLite
+- Python 3.x
+- Django
+- Bootstrap
+- Jinja
+- SQLite
 
 ## Instructions
 Clone this repository to your local machine using git clone <repository-url>.
