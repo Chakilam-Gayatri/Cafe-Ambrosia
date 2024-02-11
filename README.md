@@ -17,6 +17,18 @@ User Management: Admins can add users and chefs through the interface, ensuring 
 SQLite Database: The backend utilizes an SQLite database to store essential information about menu items, including category, description, prices, and availability status.
 Item Table: The database table named "Item" stores detailed information such as category, item name, description, prices, entry date, last update date, status, and admin user credentials.
 
+## Prerequisites
+Python 3.x
+Django
+Bootstrap
+Jinja
+SQLite
 
+## Instructions
+Clone this repository to your local machine using git clone <repository-url>.
+Navigate to the project directory.
+Install the required dependencies by running pip install -r requirements.txt.
+Run the Django development server using python manage.py runserver.
+Access the website in your browser at http://localhost:8000.
 
 
